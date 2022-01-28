@@ -1,1 +1,1 @@
-The dataset is download from: https://nijianmo.github.io/amazon/index.html
+The dataset is downloaded from: https://nijianmo.github.io/amazon/index.html
