@@ -1,4 +1,4 @@
-# TIL
+# TIL - Triplet Importance Learning
 This repository contains the idea of paper: [Adapting Triplet Importance of Implicit Feedback for Personalized Recommendation](https://arxiv.org/pdf/2208.01709.pdf) (CIKM 2022).
 
 
